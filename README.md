@@ -1,4 +1,4 @@
-![](https://github.com/KaMoHub/KaMoHub/blob/main/logo.png)
+![](https://github.com/KaMoHub/KaMoHub/blob/main/banner.png)
 # 👋 Привет! Меня зовут Екатерина.
 
 ## О себе
