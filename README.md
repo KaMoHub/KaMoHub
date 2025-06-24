@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Привет! Меня зовут Екатерина.
 
-<!--
-**KaMoHub/KaMoHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## О себе
 
-Here are some ideas to get you started:
+Я программист
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Я изучаю Python и другие технологии.
+- 💼 Работаю над проектами в области веб-разработки/машинного обучения/и т.д..
+- 📫 Как связаться со мной: [email](mailto:i@moyeka.ru) 
+
+## 🚀 Мои ключевые навыки
+- Программирование: Python, 1C
+- Инструменты: Git, Figma, Flask
+- Базы данных: SQL, SQLite
+
+
